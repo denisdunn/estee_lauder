@@ -1,2 +1,2 @@
 # estee_lauder
-![Screenshot](image001 (1).jpg)
+![ScreenShot](https://github.com/denisdunn/estee_lauder/blob/master/image001.jpg)
